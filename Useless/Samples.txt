@@ -1,0 +1,4 @@
+1 sample1
+2 sample2
+4 sample1
+8 sample2
